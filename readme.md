@@ -12,3 +12,4 @@
 
 * JavaScript
 
+[Открыть](https://ErdemBalzhinimaev1.github.io/php/bjs/08_if_else/ "Открыть в Github Pages") в Github Pages
